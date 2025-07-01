@@ -1,0 +1,36 @@
+.user-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.user-card {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  width: 300px;
+  background: #f9f9f9;
+}
+
+.user-card input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.user-card button {
+  width: 100%;
+  padding: 10px;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.user-info {
+  margin-top: 20px;
+  background: #dff0d8;
+  padding: 10px;
+  border-radius: 5px;
+}
